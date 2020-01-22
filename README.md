@@ -1,0 +1,2 @@
+# Riddle-Me-This
+This is a little side project that I was working on in my spare time. I wanted to take the same aspects and functions of a ransomware and instead of locking information behind a paywall I wanted to have the user complete a series of riddles and questions in order to retrieve access to their files. This was not meant to be used anywhere other than on my machine only targeting a few specific files. The purpose was to learn python by doing something unusual with it. The current condition is still a big work in progress.
